@@ -11,4 +11,5 @@ Run `grunt` for building and `grunt serve` for preview.
 
 Running `grunt test` will run the unit tests with karma.
 
-https://travis-ci.org/vronvali/mytodo.svg?
+https://travis-ci.org/vronvali/mytodo.svg?branch=master
+[![Build Status](https://travis-ci.org/vronvali/mytodo.svg?branch=master)](https://travis-ci.org/vronvali/mytodo)
